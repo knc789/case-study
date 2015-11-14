@@ -1,6 +1,6 @@
 ---
 sectionid: intro
-sectionclass: h3
+sectionclass: h1
 title: CrossChx and Gesundheit Hospital
 number: 1000
 ---
