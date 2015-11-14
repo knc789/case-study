@@ -1,6 +1,6 @@
 full_rebuild: true
-site.url: /img/whiteonblue.jpg
 name: Case Study
+site.url: /img/whiteonblue.jpg
 author: Kaylyn Cheatham
 encoding: utf-8
 defaults:
