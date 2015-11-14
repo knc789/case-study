@@ -1,7 +1,7 @@
 ---
 sectionid: intro
 sectionclass: h1
-title: Introduction
+title: CrossChx and Gesundheit Hospital
 number: 1000
 ---
 Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
