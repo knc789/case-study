@@ -3,7 +3,7 @@ sectionid: config
 sectionclass: h2
 parent-id: set-up
 title: _config.yml
-number: 2100
+number: 1100
 ---
 There is very few configuration to be done before you are up and running, still the ones you need to add, are as follows:
 

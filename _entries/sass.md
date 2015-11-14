@@ -3,7 +3,7 @@ sectionid: sass
 sectionclass: h2
 parent-id: set-up
 title: Sass
-number: 2200
+number: 1200
 ---
 The styles applied to Docster are very minimal. There are two colors used throughout the site and some syntax highlighting stylesheet.
 
