@@ -1,6 +1,7 @@
 full_rebuild: true
-name: ({{ site.url }}/img/whiteonblue.jpg)
-author: Case Study
+site.url: /img/whiteonblue.jpg
+name: Case Study
+author: Kaylyn Cheatham
 encoding: utf-8
 defaults:
   -
