@@ -13,5 +13,5 @@ Amelia Forester brings her mother Jean to PPTH for diabetes treatment. She says 
 	  
 	    
 		
-_*Disclaimer:*_ _This is a writing challenge and contains fictional information about a fictional hospital._
+**_Disclaimer:_ This is a writing challenge and contains fictional information about a fictional hospital.**
 [Page source](https://github.com/knc789/case-study)
