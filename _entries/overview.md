@@ -2,9 +2,9 @@
 sectionid: overview
 sectionclass: h1
 is-parent: yes
-title: CrossChx and Gesundheit Hospital
+title: CrossChx and Princeton-Plainsboro Hospital
 number: 1000
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis orci posuere, tincidunt elit a, hendrerit eros. In gravida augue quis mi efficitur, nec finibus risus rhoncus. Praesent nisi velit, commodo fringilla ante eget, faucibus placerat nulla. Donec dictum, metus id pulvinar tincidunt, tellus quam ornare ante, eu feugiat enim felis a libero. Nunc sit amet dignissim nisi. Aliquam cursus fermentum mauris pulvinar dignissim.
+Princeton-Plainsboro Teaching Hospital (PPTH) is a Level 1 Trauma Center and a Level 1 Burn Center in Princeton, New Jersey. PPTH treats 400,000 people every year, and is the regional expert in pulling people through burn trauma. People are life-flighted from as far away as New York City to receive top care in their leading edge facilities. 
 
-In vestibulum in lacus non consectetur. Maecenas tempor et odio vitae gravida. In auctor vitae purus id molestie. Mauris nec nunc in ex molestie imperdiet. Duis id dictum purus. Suspendisse potenti. Aenean pellentesque massa eu urna ultrices, eget aliquam metus eleifend.
+CrossChx partners with PPTH to improve the efficiency of the patient check in process by instantly verifying a patient's identity, by linking all of their records, and by identifying and preventing duplicate medical records.
