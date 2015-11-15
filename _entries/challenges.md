@@ -9,6 +9,6 @@ PPTH sees an average of 300 people every day in their four trauma centers and fi
 
 PPTH works with [Partnership for a Drug-Free New Jersey](http://www.drugfreenj.org/) to decrease prescription drug abuse issues. With the volume of patients that PPTH sees in a day, they haven't always been able to keep track of those who may be using their system to abuse prescription drugs.
 
-PPTH also wants a way to identify and prevent duplicate medical records. They estimate that fixing duplicate medical records is costing each patient and average of $50. This doesn't take into account the time wasted by both the patient and staff to sort out the issue.
+PPTH also wants a way to identify and prevent duplicate medical records. They estimate that fixing duplicate medical records is costing an average of $50 per duplicate. This doesn't take into account the time wasted by both the patient and staff to sort out the issue.
 
 PPTH needs a solution that verifies a patients identity, verifies their medical records, and links them all together. This solution needs to be easy and non-disruptive to implement so that the doctors and staff can focus on the important part: the best possible care for their patients.
