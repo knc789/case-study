@@ -2,7 +2,7 @@
 This is a writing challenge and contains fictional information about a fictional hospital. 
 
 # Credit
-I used the following open source libraries and artifacts in creating this webpage:
+I used the following open source libraries and artifacts to create this webpage:
 
 * [Github pages](https://pages.github.com/) 
 * [Jeykell static websites](https://jekyllrb.com/) 
