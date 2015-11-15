@@ -11,4 +11,4 @@ PPTH works with [Partnership for a Drug-Free New Jersey](http://www.drugfreenj.o
 
 PPTH also wants a way to identify and prevent duplicate medical records. They estimate that fixing duplicate medical records is costing each patient and average of $50. This doesn't take into account the time wasted by both the patient and staff to sort out the issue.
 
-PPTH needs a solution that verifies a patients identity, verifies their medical records, and links them all together. This solution needs to be easy and non-disruptive to implement so that the doctors and staff can focus on the important part: the best possible care for their patients .
+PPTH needs a solution that verifies a patients identity, verifies their medical records, and links them all together. This solution needs to be easy and non-disruptive to implement so that the doctors and staff can focus on the important part: the best possible care for their patients.
