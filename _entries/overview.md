@@ -9,4 +9,4 @@ Princeton-Plainsboro Teaching Hospital (PPTH) is a Level 1 Trauma Center and a L
 
 CrossChx partners with PPTH to improve the efficiency of the patient check in process by instantly verifying a patient's identity, by linking all of their records, and by identifying and preventing duplicate medical records.
 
-![CrossChx and Princeton-Plainsboro Teaching Hospital](https://github.com/knc789/case-study/blob/gh-pages/img/CCplusPPTH.jpg "our partnership")
+[CrossChx and Princeton-Plainsboro Teaching Hospital](https://github.com/knc789/case-study/blob/gh-pages/img/CCplusPPTH.jpg "our partnership")
